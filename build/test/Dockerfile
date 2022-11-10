@@ -9,7 +9,6 @@ RUN apt-get update && \
     apt-get install -y \
     curl \
     ffmpeg \
-    fonts-noto \
     gnupg \
     golang \
     gstreamer1.0-pulseaudio \
